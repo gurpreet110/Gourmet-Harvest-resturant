@@ -11,7 +11,7 @@ a visually rich background.
 
 ## 🌐 Live Preview
 
-Coming Soon 🚀
+Coming Soon 
 
 ---
 
